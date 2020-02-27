@@ -66,9 +66,16 @@
 	}
 
 	header, footer {
-	h1, h2, h3, h4, h5, h6, p, a, span {
-		color: _palette(fg-inverse);
+		h1, h2, h3, h4, h5, h6, p, a, span {
+			color: _palette(fg-inverse);
+		}
 	}
+	section section header, footer {
+		h1, h2, h3, h4, h5, h6, p, a, span {
+			@include breakpoint('<=medium') {
+				color: _palette(fg-bold);
+			}
+		}
 	}
 
 	h1, h2, h3, h4, h5, h6 {

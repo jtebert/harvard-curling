@@ -1,3 +1,21 @@
 #wrapper > section.intro > header #logo {
     width: 200px;
+    @include breakpoint('medium') {
+        position: absolute;
+        top: 64px;
+        right: 64px;
+    }
+}
+
+// Juicer
+
+h1.referral {
+    display: none !important;
+}
+li.feed-item.juicer-ad {
+    display: none !important;
+}
+.j-paginate.juicer-button {
+    // @extend .button;
+
 }
