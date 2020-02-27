@@ -23,7 +23,8 @@ export default {
   ** Global CSS
   */
   css: [
-    '@/assets/main.scss',
+    // '@/assets/main.scss',
+    '@/assets/assets/sass/fontawesome-all.min.css',
     '@/assets/assets/sass/main.scss'
   ],
   /*
