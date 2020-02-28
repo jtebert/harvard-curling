@@ -29,7 +29,7 @@
 
 							<span class="image main"><img src="/images/Utica-College-Bonspiel-46_web.jpg" alt="" /></span>
 
-							<p>Harvard Curling is a club sport open to all Harvard students. No experience is necessary to join — we’ll teach you how to curl.</p>
+							<p>Harvard Curling is open to all Harvard students. No experience is necessary to join — we’ll teach you how to curl.</p>
 
 							<p>Our season runs from October through March. During the season, we play local teams and participate in college bonspiels (tournaments) in the Northeast, accumulating points to qualify for the USA College Championship each spring.</p>
 
@@ -38,7 +38,7 @@
 					</section>
 
 				<!-- Section -->
-					<section>
+					<section id="who">
 						<header>
 							<h2>Who We Are</h2>
 						</header>
@@ -56,8 +56,29 @@
 						</div>
 					</section>
 
+					<section id="news">
+						<header>
+							<h2>News Coverage</h2>
+						</header>
+						<div class="content">
+							<h2><a href="https://www.thecrimson.com/article/2019/3/6/curling-club/">Harvard Curling Club: From Learn-To-Curl to Nationals</a></h2>
+							<h3>Harvard Crimson, March 2019</h3>
+							<span class="image main"><img src="/images/crimson-img.jpg" alt="Harvard Crimson preview"/></span>
+
+							<h2><a href="https://apnews.com/766049c592ea446b9e204613d132416d">As curling grows, it finds a new target: college campuses</a></h2>
+							<h3>AP News, March 2019</h3>
+							<span class="image main"><img src="/images/ap-news-img.jpg" alt="Harvard Crimson preview"/></span>
+
+							<h2><a href="https://news.harvard.edu/gazette/story/2018/02/brooms-at-the-ready-harvards-curling-team-takes-to-the-ice/">To compete, they let it slide</a></h2>
+							<h3>Harvard Gazette, February 2018</h3>
+							<div class="videoWrapper">
+								<iframe width="560" height="315" src="https://www.youtube.com/embed/N988Kltkk0M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+							</div>
+						</div>
+					</section>
+
 				<!-- Section -->
-					<section>
+					<section id="photos">
 						<header>
 							<h2>Ultrices erat magna sed condimentum</h2>
 						</header>
@@ -65,7 +86,7 @@
 							<p><strong>Integer mollis egestas</strong> nam maximus erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam.</p>
 
 							<!-- Section -->
-								<section>
+								<section id="insta">
 									<header>
 										<h3>Instagram</h3>
 										<p>See the latest feed of what the team is up to.</p>
@@ -80,6 +101,7 @@
 											data-pages="1"
 											data-style="image-grid">
 										</ul>
+										<!-- Configuration: https://help.juicer.io/en/articles/2154872-code-customizations-for-date-range-feed-style-spacing-filtering-and-more -->
 										<!-- <div class="gallery">
 											<a href="images/gallery/fulls/01.jpg" class="landscape"><img src="images/gallery/thumbs/01.jpg" alt="" /></a>
 											<a href="images/gallery/fulls/02.jpg"><img src="images/gallery/thumbs/02.jpg" alt="" /></a>
@@ -100,11 +122,11 @@
 							<h2>Join the Team</h2>
 						</header>
 						<div class="content">
-							<p>Interested in joining the Harvard curling team? Students in all Harvard schools are eligible to join, including the College, GSAS, HLS, HMS, HBS, GSD, GSE, etc.</p>
-							<p>No experience is necessary! We host learn-to-curl events throughout the year, and we will provide all of the necessary equipment and transportation. We're committed to getting new players involved, so you'll be able to play in tournaments as soon as you join.</p>
+							<p>Interested in joining the Harvard curling team? Students in all Harvard schools are eligible to join, including the College, GSAS, HLS, HBS, etc.</p>
+							<p>No experience is necessary! We host learn-to-curl events, and we will provide all of the necessary equipment and transportation. We're committed to getting new players involved, so you'll be able to play in tournaments as soon as you join.</p>
 							<h3>Email us:</h3>
 							<ul class="actions">
-								<li><a href="#" class="button primary large">harvardcurling@gmail.com</a></li>
+								<li><a href="mailto:harvardcurling@gmail.com" class="button primary large">harvardcurling@gmail.com</a></li>
 							</ul>
 							<!-- <form>
 								<div class="fields">
@@ -128,6 +150,10 @@
 								<li>
 									<h3>Email</h3>
 									<a href="mailto:harvardcurling@gmail.com">harvardcurling@gmail.com</a>
+								</li>
+								<li>
+									<h3>Links</h3>
+									<a href="http://collegecurlingusa.org/">College Curling USA</a>
 								</li>
 								<li>
 									<h3>Social Media</h3>
