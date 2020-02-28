@@ -80,10 +80,16 @@
 				<!-- Section -->
 					<section id="photos">
 						<header>
-							<h2>Ultrices erat magna sed condimentum</h2>
+							<h2>Photos</h2>
 						</header>
 						<div class="content">
 							<p><strong>Integer mollis egestas</strong> nam maximus erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam.</p>
+							<div class="gallery">
+								<a href="/images/1718_nationals_cheese_1-1.jpg" class="landscape"><img src="/images/1718_nationals_cheese_1-1.jpg" alt="2018 Nationals in Wisconsin" /></a>
+								<a href="/images/Utica-College-Bonspiel-138_web-1.jpg"><img src="/images/Utica-College-Bonspiel-138_web-1.jpg" alt="Jack Cordes making faces" /></a>
+								<a href="/images/Utica-College-Bonspiel-223_web-1.jpg"><img src="/images/Utica-College-Bonspiel-223_web-1.jpg" alt="Lara Teich and Kristin Kiley making faces" /></a>
+								<a href="/images/1819_firstpractice_22-1.jpg" class="landscape"><img src="/images/1819_firstpractice_22-1.jpg" alt="Learn to curl event" /></a>
+							</div>
 
 							<!-- Section -->
 								<section id="insta">
@@ -102,12 +108,6 @@
 											data-style="image-grid">
 										</ul>
 										<!-- Configuration: https://help.juicer.io/en/articles/2154872-code-customizations-for-date-range-feed-style-spacing-filtering-and-more -->
-										<!-- <div class="gallery">
-											<a href="images/gallery/fulls/01.jpg" class="landscape"><img src="images/gallery/thumbs/01.jpg" alt="" /></a>
-											<a href="images/gallery/fulls/02.jpg"><img src="images/gallery/thumbs/02.jpg" alt="" /></a>
-											<a href="images/gallery/fulls/03.jpg"><img src="images/gallery/thumbs/03.jpg" alt="" /></a>
-											<a href="images/gallery/fulls/04.jpg" class="landscape"><img src="images/gallery/thumbs/04.jpg" alt="" /></a>
-										</div> -->
 									</div>
 								</section>
 
