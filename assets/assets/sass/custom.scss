@@ -20,12 +20,12 @@ li.feed-item.juicer-ad {
 
 }
 
-h2 + h3 {
+h2 + p {
     margin-top: -32px;
     margin-bottom: 16px;
     text-transform: none;
 }
-h3 + .image.main, .videoWrapper {
+p + .image.main, .videoWrapper {
     margin-bottom: 32px;
     margin-top: 16px;
 }
