@@ -17,7 +17,10 @@ li.feed-item.juicer-ad {
 }
 .j-paginate.juicer-button {
     // @extend .button;
+}
 
+.juicer-feed.image-grid .j-text .j-message a, .juicer-feed.image-grid .j-text .j-edit a, .juicer-feed.slider .j-text .j-message a, .juicer-feed.slider .j-text .j-edit a, .juicer-feed.hip .j-text .j-message a, .juicer-feed.hip .j-text .j-edit a, .juicer-feed a:hover {
+    color: _palette(accent) !important;
 }
 
 h2 + p {
