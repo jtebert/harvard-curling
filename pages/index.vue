@@ -13,7 +13,7 @@
 		<!-- Section -->
 		<page-section title="About Us" id="about">
 			<div class="content">
-				<p><b>Harvard Curling</b> is a university-recognized club sport at Harvard University. In our 2019-2020 season, the Harvard team finished the regular season in third place in the college tour, which means we're headed to the College Curling National Championship in Fargo, ND.</p>
+				<p><b>Harvard Curling</b> is a university-recognized club sport at Harvard University. In our 2019-2020 season, the Harvard team finished the regular season in third place in the college tour, which means we qualified for the 2020 College Curling National Championship in Fargo, ND. Unfortunately, the championship was postponed due to the current pandemic, but we plan to be back in the fall for more curling, when everyone is safe!</p>
 
 				<span class="image main"><img src="/images/Utica-College-Bonspiel-46_web.jpg" alt="" /></span>
 
