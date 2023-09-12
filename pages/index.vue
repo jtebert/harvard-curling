@@ -6,22 +6,23 @@
 		<page-header
 			title="Harvard Curling"
 			logo="/images/logo.svg"
-			intro="The Harvard University club curling team 🥌 <a href='https://www.instagram.com/harvardcurling/'>@harvardcurling</a>"
+      logo="/images/Goldline.png"
+			intro="We got the brains and brawn. 🥌 <a href='https://www.instagram.com/harvardcurlingteam'>@harvardcurling</a>"
 			img="/images/Harvard-Curling-200221-71_web.jpg"
 		></page-header>
 
 		<!-- Section -->
 		<page-section title="About Us" id="about">
 			<div class="content">
-				<p><b>Harvard Curling</b> is a university-recognized club sport at Harvard University. In our 2019-2020 season, the Harvard team finished the regular season in third place in the college tour, which means we qualified for the 2020 College Curling National Championship in Fargo, ND. Unfortunately, the championship was postponed due to the current pandemic, but we plan to be back in the fall for more curling, when everyone is safe!</p>
+				<p><b>Harvard Curling</b> is a university-recognized club sport at Harvard University. We were first established in 2000 and have qualified for every USA College Championship since 2016. Most recently, we placed 4th at the 2022 USA College Curling Championship and the 2017 USA College Curling Championship.</p>
 
 				<span class="image main"><img src="/images/Utica-College-Bonspiel-46_web.jpg" alt="" /></span>
 
-				<p>Our season runs from October through March. During the season, we play local teams and participate in college bonspiels (tournaments) in the Northeast, accumulating points to qualify for the USA College Championship each spring.</p>
+				<p>Our season runs from October through March. During the season, we play local teams and participate in college bonspiels (tournaments) in the Northeast, accumulating points to qualify for the USA College Championship.</p>
 
-				<p>We are always seeking new team members, so <a href="#join" class="scrolly">get in touch</a> if you are interested in curling with us. We welcome both brand new curlers and experienced curlers looking for more serious competition. Harvard Curling is open to all Harvard students. No experience is necessary to join — we’ll teach you how to curl. We practice and play at Broomstones Curling Club on Fridays from 4:00-6:00. We do have some transportation available, but if you have access to a car, this would also be a great help for carpooling.</p>
+				<p>We are always seeking new team members, so <a href="#join" class="scrolly">get in touch</a> if you are interested in curling with us. We welcome both brand new curlers and experienced curlers looking for more serious competition. Harvard Curling is open to all Harvard students. No experience is necessary to join — we’ll teach you how to curl. We practice and play at Broomstones Curling Club on Fridays from 4:00-6:00. We have transportation available, but if you have access to a car, this would also be a great help for carpooling.</p>
 
-				<p>This year, Harvard Curling is also celebrating its 20th anniversary! The club was originally established in 2000, and although it has waxed and waned through the years, we're looking forward to another 20 years of curling.</p>
+				<p>The club was originally established in 2000, and although it has waxed and waned through the years, we're looking forward to another 20 years of curling.</p>
 			</div>
 		</page-section>
 
