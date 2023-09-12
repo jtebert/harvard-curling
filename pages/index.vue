@@ -5,8 +5,7 @@
 		<!-- Intro -->
 		<page-header
 			title="Harvard Curling"
-			logo="/images/logo.svg"
-      img="/images/Goldline.png"
+			logo="/images/goldteam.png"
 			intro="We got the brains and brawn. 🥌 <a href='https://www.instagram.com/harvardcurlingteam'>@harvardcurling</a>"
 			img="/images/Harvard-Curling-200221-71_web.jpg"
 		></page-header>
