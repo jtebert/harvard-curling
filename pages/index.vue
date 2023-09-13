@@ -15,7 +15,7 @@
 			<div class="content">
 				<p><b>Harvard Curling</b> is a university-recognized club sport at Harvard University. We were first established in 2000 and have qualified for every USA College Championship since 2016. Most recently, we placed 4th at the 2022 USA College Curling Championship and the 2017 USA College Curling Championship.</p>
 
-				<span class="image main"><img src="/images/Utica-College-Bonspiel-46_web.jpg" alt="" /></span>
+				<span class="image main"><img src="/images/Award.jpg" alt="" /></span>
 
 				<p>Our season runs from October through March. During the season, we play local teams and participate in college bonspiels (tournaments) in the Northeast, accumulating points to qualify for the USA College Championship.</p>
 
@@ -79,9 +79,9 @@
 				<gallery
 					:images="{
 						'2018 Nationals in Wisconsin': '/images/1718_nationals_cheese_1-1.jpg',
-						'Jack Cordes making faces': '/images/Utica-College-Bonspiel-138_web-1.jpg',
-						'Lara Teich and Kristin Kiley making faces': '/images/Utica-College-Bonspiel-223_web-1.jpg',
-						'Learn to curl event': '/images/1819_firstpractice_22-1.jpg'
+						'Good Curling': '/images/GoodCurling.jpg',
+						'Student Award': '/images/StudentAward.jpg',
+						'Strategy Session': '/images/Strategy.jpg'
 					}"
 					:orientations="['landscape', 'portrait', 'portrait', 'landscape']"
 				></gallery>
