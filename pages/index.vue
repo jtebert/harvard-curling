@@ -79,9 +79,9 @@
 				<gallery
 					:images="{
 						'2018 Nationals in Wisconsin': '/images/1718_nationals_cheese_1-1.jpg',
-						'Good Curling': '/images/GoodCurling.jpg',
+						'Strategy Session': '/images/Strategy.jpg',
 						'Student Award': '/images/StudentAward.jpg',
-						'Strategy Session': '/images/Strategy.jpg'
+						'Good Curling': '/images/GoodCurling.jpg'
 					}"
 					:orientations="['landscape', 'portrait', 'portrait', 'landscape']"
 				></gallery>
